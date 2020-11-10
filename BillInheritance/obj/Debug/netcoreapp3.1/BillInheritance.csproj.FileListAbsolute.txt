@@ -1,0 +1,13 @@
+C:\Users\Mike\Desktop\Coding\GrandCircus\BillInheritance\BillInheritance\bin\Debug\netcoreapp3.1\BillInheritance.exe
+C:\Users\Mike\Desktop\Coding\GrandCircus\BillInheritance\BillInheritance\bin\Debug\netcoreapp3.1\BillInheritance.deps.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\BillInheritance\BillInheritance\bin\Debug\netcoreapp3.1\BillInheritance.runtimeconfig.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\BillInheritance\BillInheritance\bin\Debug\netcoreapp3.1\BillInheritance.runtimeconfig.dev.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\BillInheritance\BillInheritance\bin\Debug\netcoreapp3.1\BillInheritance.dll
+C:\Users\Mike\Desktop\Coding\GrandCircus\BillInheritance\BillInheritance\bin\Debug\netcoreapp3.1\BillInheritance.pdb
+C:\Users\Mike\Desktop\Coding\GrandCircus\BillInheritance\BillInheritance\obj\Debug\netcoreapp3.1\BillInheritance.csprojAssemblyReference.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\BillInheritance\BillInheritance\obj\Debug\netcoreapp3.1\BillInheritance.AssemblyInfoInputs.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\BillInheritance\BillInheritance\obj\Debug\netcoreapp3.1\BillInheritance.AssemblyInfo.cs
+C:\Users\Mike\Desktop\Coding\GrandCircus\BillInheritance\BillInheritance\obj\Debug\netcoreapp3.1\BillInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\BillInheritance\BillInheritance\obj\Debug\netcoreapp3.1\BillInheritance.dll
+C:\Users\Mike\Desktop\Coding\GrandCircus\BillInheritance\BillInheritance\obj\Debug\netcoreapp3.1\BillInheritance.pdb
+C:\Users\Mike\Desktop\Coding\GrandCircus\BillInheritance\BillInheritance\obj\Debug\netcoreapp3.1\BillInheritance.genruntimeconfig.cache
